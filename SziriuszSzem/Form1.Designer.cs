@@ -89,7 +89,6 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox6.Location = new System.Drawing.Point(340, 50);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(600, 150);

@@ -8,3 +8,13 @@ C:\Users\fejbe\Desktop\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.GenerateResour
 C:\Users\fejbe\Desktop\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.CoreCompileInputs.cache
 C:\Users\fejbe\Desktop\SziriuszSzem\obj\Debug\SziriuszSzem.exe
 C:\Users\fejbe\Desktop\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\bin\Debug\SziriuszSzem.exe.config
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\bin\Debug\SziriuszSzem.exe
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\bin\Debug\SziriuszSzem.pdb
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.csprojAssemblyReference.cache
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.Form1.resources
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.Properties.Resources.resources
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.GenerateResource.cache
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.CoreCompileInputs.cache
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.exe
+C:\Users\fejbe\Desktop\Sziriusz-Szem\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
