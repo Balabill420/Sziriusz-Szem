@@ -1,0 +1,38 @@
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe.config
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.pdb
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.AssemblyReference.cache
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.SuggestedBindingRedirects.cache
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Form1.resources
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Properties.Resources.resources
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.GenerateResource.cache
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.CoreCompileInputs.cache
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.exe
+C:\Info\c#\Új mappa\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe.config
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.pdb
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.AssemblyReference.cache
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Properties.Resources.resources
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.GenerateResource.cache
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.CoreCompileInputs.cache
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.exe
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
+C:\Users\Dani\OneDrive\Asztali gép\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.SziriuszSzem.resources
+C:\Users\Polyik Dániel\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csprojAssemblyReference.cache
+C:\Users\Polyik Dániel\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.exe
+C:\Users\Polyik Dániel\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.AssemblyReference.cache
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.exe
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.pdb
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe.config
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.exe
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\bin\Debug\SziriuszSzem.pdb
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Menu.resources
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Properties.Resources.resources
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.GenerateResource.cache
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.BasicGame.resources
+C:\Users\Dani\Downloads\SziriuszSzem\SziriuszSzem\SziriuszSzem\SziriuszSzem\obj\Debug\SziriuszSzem.Form1.resources
